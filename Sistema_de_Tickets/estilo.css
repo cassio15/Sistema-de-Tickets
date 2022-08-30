@@ -1,0 +1,25 @@
+.container{
+    max-width: 1000px;
+    margin: 0 auto;
+}
+
+.largura{
+    min-width: 700px;
+}
+
+
+.paragrafo{
+    min-width: 100px;
+}
+
+.bg-card{
+    background: #6bf0f0;
+}
+
+.texto{
+    font-size: 2em;
+}
+
+.formatacao{
+    font-size: 1.5em;
+}
